@@ -1,1 +1,0 @@
-echo Adi Gunawan Hidayat
